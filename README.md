@@ -58,7 +58,7 @@ Key characteristics:
 ```
 megaline-tariff-analysis/
 │
-├── Proyecto_final_sprint4.ipynb
+├── megaline_tariff_analysis.ipynb
 ├── megaline_calls.csv
 ├── megaline_internet.csv
 ├── megaline_messages.csv
