@@ -55,7 +55,7 @@ Key characteristics:
 
 ## 📁 Project Structure
 
-
+```
 megaline-tariff-analysis/
 │
 ├── Proyecto_final_sprint4.ipynb
@@ -66,6 +66,8 @@ megaline-tariff-analysis/
 ├── megaline_users.csv
 ├── requirements.txt
 └── README.md
+
+```
 
 ---
 
