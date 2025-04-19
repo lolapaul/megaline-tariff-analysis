@@ -1,16 +1,16 @@
-# 📞 Megaline Tariff Analysis
+#  Megaline Tariff Analysis
 
 Revenue and user behavior analysis for two prepaid telecom plans — Surf and Ultimate — offered by Megaline. This project includes data cleaning, exploratory data analysis, and statistical testing to determine which plan generates more average monthly revenue.
 
 ---
 
-## 📌 Objective
+##  Objective
 
 The commercial department of Megaline wants to evaluate which prepaid plan — Surf or Ultimate — is more profitable. This project analyzes user activity (calls, texts, internet usage) and monthly revenue per user to support business decisions.
 
 ---
 
-## 📊 Dataset Description
+##  Dataset Description
 
 The dataset includes five tables:
 
@@ -26,7 +26,7 @@ Key characteristics:
 
 ---
 
-## 🔍 Project Workflow
+##  Project Workflow
 
 1. **Data Preparation**
    - Convert types
@@ -44,7 +44,7 @@ Key characteristics:
 
 ---
 
-## 📊 Key Questions Answered
+##  Key Questions Answered
 
 - Which plan has higher average monthly revenue?
 - How do user behaviors vary between plans?
@@ -53,7 +53,7 @@ Key characteristics:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 megaline-tariff-analysis/
@@ -71,7 +71,7 @@ megaline-tariff-analysis/
 
 ---
 
-## 🛠️ Tools & Libraries Used
+##  Tools & Libraries Used
 
 - Python
 - pandas
@@ -83,13 +83,13 @@ megaline-tariff-analysis/
 
 ---
 
-## ✅ Status
+##  Status
 
 ✔️ Project completed as part of the **TripleTen Bootcamp** – Sprint: *Revenue Analysis & Statistical Inference*
 
 ---
 
-## 📌 Author
+##  Author
 
 David Villanueva  
 [LinkedIn](https://www.linkedin.com/in/david-villanueva-59659727)  
